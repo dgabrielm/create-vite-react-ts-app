@@ -1,0 +1,5 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint" // vite build environment does not enforce typescript, so use the linter/highlighting to identify errors as you work
+  ]
+}

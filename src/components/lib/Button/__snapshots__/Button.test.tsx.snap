@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`Button.tsx > should match snapshot 1`] = `
+<button
+  className="_button_6dba28"
+  onClick={[Function]}
+>
+  Press Me
+</button>
+`;
