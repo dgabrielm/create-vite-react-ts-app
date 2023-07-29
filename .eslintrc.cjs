@@ -53,6 +53,7 @@ module.exports = {
     'testSetup.js',
     'commitlint.config.cjs',
     'vite.config.ts',
+    'bin/cli.js',
     'README.md',
     'env.d.ts',
     'index.html'

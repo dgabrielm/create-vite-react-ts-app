@@ -1,7 +1,15 @@
 # Vite React template
 
+## Install via npm
+
+`npx vite-react-template your-repo-name`
+
 ## Quick Start
-create .env.local with the following contents: `VITE_EXAMPLE_ENVIRONMENT_VARIABLE = "hello world"`
+create .env.local with the following contents: 
+```
+VITE_EXAMPLE_ENVIRONMENT_VARIABLE = "hello world"
+```
+
 then run
 `npm ci`
 `npm run dev`

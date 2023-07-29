@@ -1,8 +1,8 @@
 {
   "name": "vite-react-template",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 3000",
     "dev:open": "vite --host 0.0.0.0 --port 3000 --open",
