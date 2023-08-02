@@ -3,9 +3,9 @@
   "author": {
     "name": "Dario Mincioni"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
-  "bin": "./bin/cli.js",
+  "bin": "./bin/cli.ts",
   "license": "MIT",
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 3000",

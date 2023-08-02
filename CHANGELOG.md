@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.3...v1.0.4) (2023-08-02)
+
+
+### Bug Fixes
+
+* fix binaries ([2cdaeb2](https://github.com/dgabrielm/create-vite-react-ts-app/commit/2cdaeb2a666da8971c2efc75c284b0ad959d9bc3))
+
+
+
 ## [1.0.3](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.2...v1.0.3) (2023-08-02)
 
 
