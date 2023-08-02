@@ -43,6 +43,7 @@ module.exports = {
     'src/**/**/*.scss',
     'src/**/*.module.scss',
     'src/assets/*',
+    'bin/*',
     'public/*',
     'package.json',
     'package-lock.json',

@@ -1,0 +1,10 @@
+node_modules
+coverage
+dist
+dist-ssr
+.DS_Store
+storybook-static
+*.local
+bin/cli.js
+.github/workflows/publish.yml
+.npmignore
