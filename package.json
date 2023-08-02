@@ -1,7 +1,9 @@
 {
   "name": "create-vite-react-ts-app",
-  "author": { "name": "Dario Mincioni" },
-  "version": "0.0.1",
+  "author": {
+    "name": "Dario Mincioni"
+  },
+  "version": "1.0.0",
   "type": "module",
   "bin": "./bin/cli.js",
   "license": "MIT",
@@ -64,9 +66,13 @@
     "vite-tsconfig-paths": "^4.0.3",
     "vitest": "^0.26.3"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/dgabrielm/create-vite-react-ts-app.git"
   },
-  "keywords": ["react", "vite", "template"]
+  "keywords": [
+    "react",
+    "vite",
+    "template"
+  ]
 }
