@@ -1,4 +1,13 @@
-# 1.0.0 (2023-08-02)
+## [1.0.1](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.0...v1.0.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* add option to publish all unpublished versions to npm ([081b042](https://github.com/dgabrielm/create-vite-react-ts-app/commit/081b04270db04de3f078b2bd33be2390caf19b2d))
+
+
+
+# [1.0.0](https://github.com/dgabrielm/create-vite-react-ts-app/compare/0db5985ee1fe5dc51b5ddcc14a06ce47ac67ab7b...v1.0.0) (2023-08-02)
 
 
 ### Features
