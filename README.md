@@ -1,6 +1,7 @@
 # Vite React template
 
 ## Install via npm
+
 ```
 npx create-vite-react-ts-app your-repo-name
 ```
