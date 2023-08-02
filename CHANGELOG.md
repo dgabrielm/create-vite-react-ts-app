@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.1...v1.0.2) (2023-08-02)
+
+
+### Bug Fixes
+
+* make it so changelog GH action has to run before npm publish ([30bc1ae](https://github.com/dgabrielm/create-vite-react-ts-app/commit/30bc1ae82e6d96c90a027d9fb32cae1a54dc693f))
+
+
+
 ## [1.0.1](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.0...v1.0.1) (2023-08-02)
 
 
