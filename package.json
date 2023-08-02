@@ -1,8 +1,10 @@
 {
-  "name": "vite-react-template",
-  "version": "0.1.0",
+  "name": "create-vite-react-ts-app",
+  "author": { "name": "Dario Mincioni" },
+  "version": "0.0.1",
   "type": "module",
   "bin": "./bin/cli.js",
+  "license": "MIT",
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 3000",
     "dev:open": "vite --host 0.0.0.0 --port 3000 --open",
@@ -18,7 +20,6 @@
     "sass:watch": "sass --watch scss:css"
   },
   "dependencies": {
-    "@tanstack/react-query": "^4.29.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -62,5 +63,10 @@
     "vite": "^4.0.0",
     "vite-tsconfig-paths": "^4.0.3",
     "vitest": "^0.26.3"
-  }
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/dgabrielm/create-vite-react-ts-app.git"
+  },
+  "keywords": ["react", "vite", "template"]
 }
