@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.2...v1.0.3) (2023-08-02)
+
+
+### Bug Fixes
+
+* fix automated publish by adding master branch ([2c238f8](https://github.com/dgabrielm/create-vite-react-ts-app/commit/2c238f8a298a23d4a564c7a25666eb2645958a1b))
+
+
+
 ## [1.0.2](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.1...v1.0.2) (2023-08-02)
 
 
