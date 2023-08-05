@@ -3,7 +3,7 @@
   "author": {
     "name": "Dario Mincioni"
   },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "bin": "./bin/cli.js",
   "license": "MIT",
@@ -74,5 +74,11 @@
     "react",
     "vite",
     "template"
+  ],
+  "files": [
+    "bin/cli.js",
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
   ]
 }
