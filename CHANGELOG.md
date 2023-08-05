@@ -1,3 +1,12 @@
+## [1.0.7](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.6...v1.0.7) (2023-08-05)
+
+
+### Bug Fixes
+
+* whitelist files for npm and fix cli script ([a4e0908](https://github.com/dgabrielm/create-vite-react-ts-app/commit/a4e0908e373595992f0a67abc439a7f5bd69b2cf))
+
+
+
 ## [1.0.6](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.5...v1.0.6) (2023-08-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * fix automated publish by adding master branch ([2c238f8](https://github.com/dgabrielm/create-vite-react-ts-app/commit/2c238f8a298a23d4a564c7a25666eb2645958a1b))
-
-
-
-## [1.0.2](https://github.com/dgabrielm/create-vite-react-ts-app/compare/v1.0.1...v1.0.2) (2023-08-02)
-
-
-### Bug Fixes
-
-* make it so changelog GH action has to run before npm publish ([30bc1ae](https://github.com/dgabrielm/create-vite-react-ts-app/commit/30bc1ae82e6d96c90a027d9fb32cae1a54dc693f))
 
 
 
