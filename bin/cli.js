@@ -2,7 +2,7 @@
 
 import { execSync } from 'child_process'
 
-function run(cmd: string) {
+function run(cmd) {
   try {
     execSync(cmd, { stdio: 'ignore' })
   } catch(e) {
