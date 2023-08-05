@@ -74,5 +74,11 @@
     "react",
     "vite",
     "template"
+  ],
+  "files": [
+    "bin/cli.js",
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
   ]
 }
