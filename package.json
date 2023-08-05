@@ -68,5 +68,15 @@
     "type": "git",
     "url": "https://github.com/dgabrielm/create-vite-react-ts-app.git"
   },
-  "keywords": ["react", "vite", "template"]
+  "keywords": [
+    "react",
+    "vite",
+    "template"
+  ],
+  "files": [
+    "bin/cli.js",
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
+  ]
 }
