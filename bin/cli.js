@@ -15,7 +15,7 @@ function run(cmd) {
 
 const repositoryName = process.argv[2]
 const gitCheckoutCommand = `git clone --depth 1 https://https://github.com/dgabrielm/create-vite-react-ts-app ${repositoryName}`
-const installDependenciesCommand = `cd ${repositoryName} && npm ci`
+const installDependenciesCommand = `cd ${repositoryName} && npm i`
 
 console.log(`Cloning template repository with name ${repositoryName}`)
 const isCloned = run(gitCheckoutCommand)
