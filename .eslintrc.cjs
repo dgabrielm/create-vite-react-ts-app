@@ -5,10 +5,7 @@ module.exports = {
     es2021: true
   },
   extends: [
-    'eslint:recommended',
-    'plugin:@typescript-eslint/recommended',
-    'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'plugin:storybook/recommended'
+    '@dgabrielm/eslint-config-react'
   ],
   overrides: [],
   parser: '@typescript-eslint/parser',

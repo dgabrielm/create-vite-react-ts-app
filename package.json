@@ -1,6 +1,8 @@
 {
   "name": "create-vite-react-ts-app",
-  "author": { "name": "Dario Mincioni" },
+  "author": {
+    "name": "Dario Mincioni"
+  },
   "version": "0.0.1",
   "type": "module",
   "bin": "./bin/cli.js",
@@ -20,6 +22,7 @@
     "sass:watch": "sass --watch scss:css"
   },
   "dependencies": {
+    "@dgabrielm/eslint-config-react": "^1.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -64,7 +67,7 @@
     "vite-tsconfig-paths": "^4.0.3",
     "vitest": "^0.26.3"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/dgabrielm/create-vite-react-ts-app.git"
   },
